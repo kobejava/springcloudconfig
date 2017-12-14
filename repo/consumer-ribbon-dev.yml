@@ -1,0 +1,9 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://centos204.localdomain:8761/eureka,http://i-5fb45556:8761/eureka
+server:
+  port: 8764
+spring:
+  application:
+    name: consumer-ribbon
