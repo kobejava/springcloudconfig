@@ -7,3 +7,4 @@ server:
 spring:
   application:
     name: consumer-ribbon
+common.param1:p1
