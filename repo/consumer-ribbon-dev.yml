@@ -7,4 +7,4 @@ server:
 spring:
   application:
     name: consumer-ribbon
-common.param1: p15
+common.param1: p16
